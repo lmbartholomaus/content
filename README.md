@@ -1,3 +1,3 @@
 # content
 
-![Profile Picture](lmbartholomaus/content/IMG_3349.jpg)
+![Profile Picture](https://github.com/lmbartholomaus/content/blob/main/IMG_3349.jpg)
